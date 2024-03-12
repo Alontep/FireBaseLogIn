@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770631581553",
+    "project_id": "fir-login-7fc01",
+    "storage_bucket": "fir-login-7fc01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770631581553:android:1e33ee8f1c7943be1e40d0",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB0pVYO1I86SMTYOs88ScpxhLvHWt2vKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
